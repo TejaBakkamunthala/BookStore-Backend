@@ -1,0 +1,1228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\BookStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\services\\orderrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\services\\bookrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|f:\\dotnetprogramss\\bookstoreapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|f:\\dotnetprogramss\\bookstoreapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|f:\\dotnetprogramss\\bookstoreapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|f:\\dotnetprogramss\\bookstoreapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\services\\adminrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\admin\\admintokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\entity\\adminentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\admin\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\services\\userrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\admin\\adminloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\interfaces\\iadminrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\context\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\services\\adminbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\services\\reviewrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\review\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|f:\\dotnetprogramss\\bookstoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\entity\\reviewentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\services\\cartrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\interfaces\\ireviewrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|f:\\dotnetprogramss\\bookstoreapp\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|solutionrelative:controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\services\\reviewbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\interfaces\\ireviewbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\entity\\feedbackentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\address\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\interfaces\\iuserrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\interfaces\\icartrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\entity\\cartentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\services\\addressrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\interfaces\\iadminbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\entity\\addressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|f:\\dotnetprogramss\\bookstoreapp\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|solutionrelative:controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\modellayerr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\services\\wishlistrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|f:\\dotnetprogramss\\bookstoreapp\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|solutionrelative:controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\services\\whislistbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\interfaces\\iwhislistbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\interfaces\\iwishlistrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|f:\\dotnetprogramss\\bookstoreapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\entity\\wishlistentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\entity\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|f:\\dotnetprogramss\\bookstoreapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\services\\orderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\interfaces\\iorderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\interfaces\\iorderrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\services\\feedbackrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\cart\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\interfaces\\iaddressrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\services\\addressbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\interfaces\\iaddressbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\interfaces\\ibookrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|f:\\dotnetprogramss\\bookstoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\services\\cartbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\interfaces\\icartbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|f:\\dotnetprogramss\\bookstoreapp\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|solutionrelative:controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\interfaces\\ibookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\services\\bookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\entity\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\book\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\services\\feedbackbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\interfaces\\ifeedbackbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\interfaces\\ifeedbackrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\feedbackmodel\\feedbackmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\interfaces\\iuserbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\services\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\user\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\user\\logintokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\user\\forgotpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\user\\sendmodellayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\user\\responsemodellayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E17BEF2-2B81-4C3F-AAD8-36EBF9724BAB}|..\\RepoLayer\\RepositoryLayerr.csproj|f:\\dotnetprogramss\\repolayer\\repositorylayerr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A35D99F-648E-499E-A647-8BA0102E89A8}|..\\ModelLayerr\\ModelLayerr.csproj|f:\\dotnetprogramss\\modellayerr\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D74976-AC5C-463A-90FF-3E589376CD6C}|..\\BusinessLayerr\\BusinessLayerr.csproj|f:\\dotnetprogramss\\businesslayerr\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|f:\\dotnetprogramss\\bookstoreapp\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE8EA53D-CCAD-41F9-9ECB-96B58213B26E}|BookStoreApp.csproj|solutionrelative:role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAdminRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IAdminRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Interfaces\\IAdminRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IAdminRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Interfaces\\IAdminRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:42:53.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Services\\UserRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Services\\UserRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Services\\UserRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Services\\UserRL.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowIgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:01:30.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Services\\AdminRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Services\\AdminRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Services\\AdminRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Services\\AdminRL.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwG0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:37:32.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Services\\BookRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Services\\BookRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Services\\BookRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Services\\BookRL.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwDMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:05:03.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:52:32.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminTokenModel.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\Admin\\AdminTokenModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\Admin\\AdminTokenModel.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\Admin\\AdminTokenModel.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\Admin\\AdminTokenModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:26:23.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Services\\OrderRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Services\\OrderRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Services\\OrderRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Services\\OrderRL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:56:51.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAiwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:59:53.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:04:14.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:03:24.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminEntity.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Entity\\AdminEntity.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Entity\\AdminEntity.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Entity\\AdminEntity.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Entity\\AdminEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:35:50.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminLoginModel.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\Admin\\AdminLoginModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\Admin\\AdminLoginModel.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\Admin\\AdminLoginModel.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\Admin\\AdminLoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:21:27.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\Admin\\AdminModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\Admin\\AdminModel.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\Admin\\AdminModel.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\Admin\\AdminModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:34:30.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReviewBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\ReviewBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Services\\ReviewBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\ReviewBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Services\\ReviewBL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:24:36.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BookStoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BookStoreApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:55:42.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\AdminBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Services\\AdminBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\AdminBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Services\\AdminBL.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:57:30.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookContext.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Context\\BookContext.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Context\\BookContext.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Context\\BookContext.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Context\\BookContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:47:32.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReviewEntity.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Entity\\ReviewEntity.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Entity\\ReviewEntity.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Entity\\ReviewEntity.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Entity\\ReviewEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:15:10.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReviewModel.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\Review\\ReviewModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\Review\\ReviewModel.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\Review\\ReviewModel.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\Review\\ReviewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:10:47.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReviewRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Services\\ReviewRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Services\\ReviewRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Services\\ReviewRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Services\\ReviewRL.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAkwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:12:18.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Controllers\\ReviewController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:27:22.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Services\\CartRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Services\\CartRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Services\\CartRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Services\\CartRL.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAkwEIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:46:23.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IReviewBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IReviewBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Interfaces\\IReviewBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IReviewBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Interfaces\\IReviewBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:24:12.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IReviewRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IReviewRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Interfaces\\IReviewRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IReviewRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Interfaces\\IReviewRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:13:01.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FeedbackEntity.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Entity\\FeedbackEntity.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Entity\\FeedbackEntity.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Entity\\FeedbackEntity.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Entity\\FeedbackEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:43:42.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddressModel.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\Address\\AddressModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\Address\\AddressModel.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\Address\\AddressModel.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\Address\\AddressModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:52:27.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CartEntity.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Entity\\CartEntity.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Entity\\CartEntity.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Entity\\CartEntity.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Entity\\CartEntity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:36:22.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICartRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\ICartRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Interfaces\\ICartRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\ICartRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Interfaces\\ICartRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:46:47.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IUserRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Interfaces\\IUserRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IUserRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Interfaces\\IUserRL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:01:00.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAdminBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IAdminBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Interfaces\\IAdminBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IAdminBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Interfaces\\IAdminBL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:52:58.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddressEntity.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Entity\\AddressEntity.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Entity\\AddressEntity.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Entity\\AddressEntity.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Entity\\AddressEntity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:13:50.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddressRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Services\\AddressRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Services\\AddressRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Services\\AddressRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Services\\AddressRL.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwE4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:47:44.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddressController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "Controllers\\AddressController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:01:49.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ModelLayerr.csproj",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\ModelLayerr.csproj",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\ModelLayerr.csproj",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\ModelLayerr.csproj",
+              "RelativeToolTip": "..\\ModelLayerr\\ModelLayerr.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T18:33:57.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Role.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BookStoreApp\\Role.cs",
+              "RelativeDocumentMoniker": "Role.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BookStoreApp\\Role.cs",
+              "RelativeToolTip": "Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:08:50.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IWhislistBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IWhislistBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Interfaces\\IWhislistBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IWhislistBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Interfaces\\IWhislistBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:05:59.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WishlistRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Services\\WishlistRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Services\\WishlistRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Services\\WishlistRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Services\\WishlistRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:55:57.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WishlistController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "Controllers\\WishlistController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAowEYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:09:58.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "WhislistBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\WhislistBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Services\\WhislistBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\WhislistBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Services\\WhislistBL.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:05:25.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IWishlistRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IWishlistRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Interfaces\\IWishlistRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IWishlistRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Interfaces\\IWishlistRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:56:52.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:09:16.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WishlistEntity.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Entity\\WishlistEntity.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Entity\\WishlistEntity.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Entity\\WishlistEntity.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Entity\\WishlistEntity.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:30:10.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Entity\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Entity\\OrderEntity.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Entity\\OrderEntity.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Entity\\OrderEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:24:20.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwHMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:44:48.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\OrderBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Services\\OrderBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\OrderBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Services\\OrderBL.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:59:20.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IOrderBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IOrderBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Interfaces\\IOrderBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IOrderBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Interfaces\\IOrderBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:58:52.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IOrderRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IOrderRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Interfaces\\IOrderRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IOrderRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Interfaces\\IOrderRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:57:39.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Class1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Class1.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:10:59.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FeedbackRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Services\\FeedbackRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Services\\FeedbackRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Services\\FeedbackRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Services\\FeedbackRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:50:30.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\Cart\\CartModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\Cart\\CartModel.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\Cart\\CartModel.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\Cart\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:42:09.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IAddressBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IAddressBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Interfaces\\IAddressBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IAddressBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Interfaces\\IAddressBL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:59:35.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AddressBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\AddressBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Services\\AddressBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\AddressBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Services\\AddressBL.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwDAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:59:53.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IAddressRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IAddressRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Interfaces\\IAddressRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IAddressRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Interfaces\\IAddressRL.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:48:04.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IBookRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IBookRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Interfaces\\IBookRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IBookRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Interfaces\\IBookRL.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:04:41.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BookStoreApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\DotNetProgramss\\BookStoreApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T11:57:20.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ICartBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\ICartBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Interfaces\\ICartBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\ICartBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Interfaces\\ICartBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:00:47.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CartBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\CartBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Services\\CartBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\CartBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Services\\CartBL.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:59:38.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedbackController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BookStoreApp\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "Controllers\\FeedbackController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAowFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:59:24.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IBookBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IBookBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Interfaces\\IBookBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IBookBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Interfaces\\IBookBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:47:17.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BookBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\BookBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Services\\BookBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\BookBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Services\\BookBL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:47:30.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BookEntity.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Entity\\BookEntity.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Entity\\BookEntity.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Entity\\BookEntity.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Entity\\BookEntity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:18:39.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FeedbackBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\FeedbackBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Services\\FeedbackBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\FeedbackBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Services\\FeedbackBL.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwCwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:55:39.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IFeedbackBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IFeedbackBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Interfaces\\IFeedbackBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IFeedbackBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Interfaces\\IFeedbackBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:55:18.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\Book\\BookModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\Book\\BookModel.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\Book\\BookModel.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\Book\\BookModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:15:23.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IFeedbackRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IFeedbackRL.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Interfaces\\IFeedbackRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Interfaces\\IFeedbackRL.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Interfaces\\IFeedbackRL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:50:52.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FeedbackModel.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\FeedbackModel\\FeedbackModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\FeedbackModel\\FeedbackModel.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\FeedbackModel\\FeedbackModel.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\FeedbackModel\\FeedbackModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:46:40.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IUserBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IUserBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Interfaces\\IUserBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Interfaces\\IUserBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Interfaces\\IUserBL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:31:55.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UserBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\UserBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Services\\UserBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Services\\UserBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Services\\UserBL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:32:37.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\Entity\\UserEntity.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "..\\RepoLayer\\Entity\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:18:53.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "LoginTokenModel.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\User\\LoginTokenModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\User\\LoginTokenModel.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\User\\LoginTokenModel.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\User\\LoginTokenModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:31:02.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UserLoginModel.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\User\\UserLoginModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\User\\UserLoginModel.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\User\\UserLoginModel.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\User\\UserLoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:47:21.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\User\\UserModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\User\\UserModel.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\User\\UserModel.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\User\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:36:26.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ForgotPasswordModel.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\User\\ForgotPasswordModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\User\\ForgotPasswordModel.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\User\\ForgotPasswordModel.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\User\\ForgotPasswordModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:29:28.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "SendModelLayer.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\User\\SendModelLayer.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\User\\SendModelLayer.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\User\\SendModelLayer.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\User\\SendModelLayer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:58:24.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ResponseModelLayer.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\User\\ResponseModelLayer.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\User\\ResponseModelLayer.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\User\\ResponseModelLayer.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\User\\ResponseModelLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:49:44.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "RepositoryLayerr.csproj",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepoLayer\\RepositoryLayerr.csproj",
+              "RelativeDocumentMoniker": "..\\RepoLayer\\RepositoryLayerr.csproj",
+              "ToolTip": "F:\\DotNetProgramss\\RepoLayer\\RepositoryLayerr.csproj",
+              "RelativeToolTip": "..\\RepoLayer\\RepositoryLayerr.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T10:35:29.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayerr\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayerr\\Class1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayerr\\Class1.cs",
+              "RelativeToolTip": "..\\ModelLayerr\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:42:49.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayerr\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerr\\Class1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayerr\\Class1.cs",
+              "RelativeToolTip": "..\\BusinessLayerr\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:42:11.767Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
